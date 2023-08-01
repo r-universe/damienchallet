@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SVN"]
+	path = SVN
+	url = https://github.com/cran/SVN
 [submodule "bahc"]
 	path = bahc
 	url = https://github.com/cran/bahc
 [submodule "sharpeRratio"]
 	path = sharpeRratio
 	url = https://github.com/cran/sharpeRratio
-[submodule "SVN"]
-	path = SVN
-	url = https://github.com/cran/SVN
